@@ -1,0 +1,24 @@
+{
+  "name": "tailwind-project",
+  "version": "1.0.0",
+  "description": "Tailwind css learning project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build-css": "tailwind -i ./src/tailwind.css -o ./output/styles.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sourabhossain/tailwind-project.git"
+  },
+  "keywords": [],
+  "author": "Sourab Hossain <sourabhossain@gmail.com> (http://www.sourabhossa.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sourabhossain/tailwind-project/issues"
+  },
+  "homepage": "https://github.com/sourabhossain/tailwind-project#readme",
+  "devDependencies": {
+    "tailwindcss": "^2.2.17"
+  }
+}
