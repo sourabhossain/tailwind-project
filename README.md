@@ -1,2 +1,2 @@
-# tailwind-project
-tailwind css learning project
+# Tailwind Project
+Tailwind css learning project
